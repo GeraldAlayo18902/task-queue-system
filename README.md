@@ -17,3 +17,7 @@ Este proyecto es un sistema de colas asíncronas que procesa tareas como enviar 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/GeraldAlayo18902/task-queue-system.git
+
+## Conexión MYSQL
+![image](https://github.com/user-attachments/assets/1f508d06-d806-4f3c-bfb8-db46a32fc912)
+
